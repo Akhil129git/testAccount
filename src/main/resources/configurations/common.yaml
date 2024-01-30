@@ -1,0 +1,8 @@
+http: 
+    path: "/v1/hello"
+    port: "8081"
+    connectionIdleTimeOut: "30000"
+    maxConnections: "-1"
+    inMemorySize: "1024"
+    responseTimeOut: "60000"
+    host: "0.0.0.0"
